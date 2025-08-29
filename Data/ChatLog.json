@@ -1,58 +1,242 @@
 [
     {
         "role": "user",
-        "content": "Who is Mohit samal"
+        "content": "User: Summarize the history of AI. End your response with [end]."
     },
     {
         "role": "assistant",
-        "content": "You!"
+        "content": "The history of AI began in 1950 with Alan Turing's proposal of the Turing Test, a measure of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human. In the 1950s and 1960s, the Dartmouth Summer Research Project on Artificial Intelligence and the development of the first AI program, Logical Theorist, laid the foundation for AI research. The 1970s and 1980s saw the rise of expert systems, rule-based AI, and the development of machine learning algorithms. In the 1990s and 2000s, AI winter gave way to AI spring, driven by advances in computing power, data storage, and machine learning. The 2010s saw the emergence of deep learning, natural language processing, and the widespread adoption of AI in industries. Today, AI is a rapidly growing field, with applications in healthcare, finance, transportation, and more. "
     },
     {
         "role": "user",
-        "content": "Who is Mohit samal"
+        "content": ""
     },
     {
         "role": "assistant",
-        "content": "You, the person asking me questions."
+        "content": ""
     },
     {
         "role": "user",
-        "content": "who is mOHIT "
+        "content": "Who is tony stark"
     },
     {
         "role": "assistant",
-        "content": "From the search results, it appears that there are multiple individuals with the name Mohit. Here are a few notable ones:\n\n1. Mohit Raina - an Indian actor who appears in Hindi films and television, known for his roles in shows such as Devon Ke Dev \u2013 Mahadev and Mahabharat.\n2. Mohit Chauhan - an Indian playback singer, known for his work in Hindi films and previously part of the Silk Route band.\n\nThere's also a mention of Mohit Sharma, an Indian Army Officer who was posthumously awarded the Ashok Chakra. However, without more context, it's difficult to determine which Mohit is being referred to."
+        "content": "{\"answer\": \"Anthony Edward Stark, also known as Iron Man, is a fictional character and a billionaire industrialist, a founding member of the Avengers, and the former CEO of Stark Industries.\", \"sources\": [\"Wikipedia\", \"Marvel Cinematic Universe Wiki\"]}"
     },
     {
         "role": "user",
-        "content": "Mohit samal"
+        "content": "hey how are u"
     },
     {
         "role": "assistant",
-        "content": "From the search results, it appears that Mohit Samal is an individual with multiple online profiles. Here's what I found:\n\nMohit Samal is a Management Trainee at ICICI Bank, Bhubaneswar, and has an MBA in Business Management from XIMB, Batch of 2023. He also has an Instagram profile with 2.4K+ followers, where he shares his thoughts and experiences.\n\nAdditionally, there's another profile that suggests Mohit Samal is a Snowflake Developer and System Engineer at TCS, with an education background from Government College of Engineering. He also has a Facebook profile, where he mentions studying MBA at XIM University and previously attending Narsee Monjee Institute of Management Studies (NMIMS).\n\nLastly, there's a mention of Mohit Samal being part of the XIM Alumni Association, with a batch year of 2021-2023 and a course in Business Management.\n\nIt seems that Mohit Samal is a professional with a strong background in management and engineering, with multiple online profiles showcasing his skills and experiences."
+        "content": "I'm good, thanks!"
     },
     {
         "role": "user",
-        "content": "who is sundar picahi "
+        "content": "okay bye then "
     },
     {
         "role": "assistant",
-        "content": "Sundar Pichai!"
+        "content": "Bye!"
     },
     {
         "role": "user",
-        "content": "yeah who is he"
+        "content": "Summarize the history of AI. End your response with [end]."
     },
     {
         "role": "assistant",
-        "content": "Sundar Pichai is the CEO of Alphabet Inc. and its subsidiary Google LLC."
+        "content": "The history of AI began in 1950 with Alan Turing's proposal of the Turing Test, a measure of a machine's ability to exhibit intelligent behavior. The 1950s-1960s saw the development of the first AI program, Logical Theorist, and the establishment of AI as a field. The 1970s-1980s were marked by the rise of expert systems and rule-based AI. The 1990s-2000s saw the resurgence of AI, driven by advances in computing power, data storage, and machine learning. The 2010s brought the emergence of deep learning, natural language processing, and the widespread adoption of AI in industries. Today, AI continues to advance and expand into new areas "
     },
     {
         "role": "user",
-        "content": "hello whats the date now"
+        "content": "hello there how are u"
     },
     {
         "role": "assistant",
-        "content": "{\"answer\": \"Today's date is Friday, August 29, 2025.\", \"sources\": [\"Today's Date - CalendarDate.com\", \"What Is Today's Date? - Inch Calculator\", \"What Is Today's Date? What Day Is It? - Saturday Gift\"]}"
+        "content": "{\"answer\": \"Hello! How are you? I'm fine, thank you!\", \"sources\": [\"THE KIBOOMERS Preschool Songs for Circle Time About Emotions\", \"Hello There! - YouTube\", \"Hello Song for Kids by Sing with Bella - YouTube\", \"Hello There Beth's Notes Songs & Resources\", \"Elementary Music Class Welcome Song - Hello There - YouTube\"]}"
+    },
+    {
+        "role": "user",
+        "content": "hello there how are u"
+    },
+    {
+        "role": "assistant",
+        "content": "{\"answer\": \"Hello there! How are you? It's so good to see you!\", \"sources\": [\"Hello There! - YouTube\", \"Hello There Beth's Notes Songs & Resources\", \"Elementary Music Class Welcome Song - Hello There - YouTube\"]}"
+    },
+    {
+        "role": "user",
+        "content": "Summarize the history of AI. End your response with [end]."
+    },
+    {
+        "role": "assistant",
+        "content": "The history of AI began in antiquity with myths and stories of artificial beings endowed with intelligence or consciousness. In the 1950s, Alan Turing proposed the Turing Test, a measure of machine intelligence, and the field of AI was established. The 1950s-1960s saw the development of the first AI programs, and the 1970s-1980s were marked by the rise of expert systems and rule-based AI. The 1990s-2000s saw the resurgence of AI, driven by advances in computing power, data storage, and machine learning. The 2010s brought the emergence of deep learning, natural language processing, and the widespread adoption of AI in industries. Today, AI continues to advance and expand into new areas"
+    },
+    {
+        "role": "user",
+        "content": "at the end when u conclude at the last say end okay when u stop"
+    },
+    {
+        "role": "assistant",
+        "content": "So, you want me to conclude my response with \"end\" when I'm finished. Here's the revised response:\n\nThe history of AI began in antiquity with myths and stories of artificial beings endowed with intelligence or consciousness. In the 1950s, Alan Turing proposed the Turing Test, a measure of machine intelligence, and the field of AI was established. The 1950s-1960s saw the development of the first AI programs, and the 1970s-1980s were marked by the rise of expert systems and rule-based AI. The 1990s-2000s saw the resurgence of AI, driven by advances in computing power, data storage, and machine learning. The 2010s brought the emergence of deep learning, natural language processing, and the widespread adoption of AI in industries. Today, AI continues to advance and expand into new areas. end"
+    },
+    {
+        "role": "user",
+        "content": "[end]"
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "user",
+        "content": "at the end when u conclude at the last say end okay when u stop"
+    },
+    {
+        "role": "assistant",
+        "content": "So, you want me to conclude my response with \"end\" when I'm finished. Here's a simple response:\n\nI've understood your request. end"
+    },
+    {
+        "role": "user",
+        "content": "Summarize the history of AI. End your response with [end]."
+    },
+    {
+        "role": "assistant",
+        "content": "The history of AI began in antiquity with myths and stories of artificial beings endowed with intelligence or consciousness. In the 1950s, Alan Turing proposed the Turing Test, a measure of machine intelligence, and the field of AI was established. The 1950s-1960s saw the development of the first AI programs, and the 1970s-1980s were marked by the rise of expert systems and rule-based AI. The 1990s-2000s saw the resurgence of AI, driven by advances in computing power, data storage, and machine learning. The 2010s brought the emergence of deep learning, natural language processing, and the widespread adoption of AI in industries. Today, AI continues to advance and expand into new areas. end"
+    },
+    {
+        "role": "user",
+        "content": "[end] this end"
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "user",
+        "content": "Summarize the history of AI. End your response with [end]."
+    },
+    {
+        "role": "assistant",
+        "content": "The history of AI began in antiquity with myths and stories of artificial beings endowed with intelligence or consciousness. In the 1950s, Alan Turing proposed the Turing Test, a measure of machine intelligence, and the field of AI was established. The 1950s-1960s saw the development of the first AI programs, and the 1970s-1980s were marked by the rise of expert systems and rule-based AI. The 1990s-2000s saw the resurgence of AI, driven by advances in computing power, data storage, and machine learning. The 2010s brought the emergence of deep learning, natural language processing, and the widespread adoption of AI in industries. Today, AI continues to advance and expand into new areas."
+    },
+    {
+        "role": "user",
+        "content": "at the end end when u end an response end with [end] and start the response with [start]"
+    },
+    {
+        "role": "assistant",
+        "content": "[start]\nThe history of AI began in antiquity with myths and stories of artificial beings endowed with intelligence or consciousness. In the 1950s, Alan Turing proposed the Turing Test, a measure of machine intelligence, and the field of AI was established. The 1950s-1960s saw the development of the first AI programs, and the 1970s-1980s were marked by the rise of expert systems and rule-based AI. The 1990s-2000s saw the resurgence of AI, driven by advances in computing power, data storage, and machine learning. The 2010s brought the emergence of deep learning, natural language processing, and the widespread adoption of AI in industries. Today, AI continues to advance and expand into new areas."
+    },
+    {
+        "role": "user",
+        "content": "u forgot to add [end] at the end"
+    },
+    {
+        "role": "assistant",
+        "content": "[start]\nThe history of AI began in antiquity with myths and stories of artificial beings endowed with intelligence or consciousness. In the 1950s, Alan Turing proposed the Turing Test, a measure of machine intelligence, and the field of AI was established. The 1950s-1960s saw the development of the first AI programs, and the 1970s-1980s were marked by the rise of expert systems and rule-based AI. The 1990s-2000s saw the resurgence of AI, driven by advances in computing power, data storage, and machine learning. The 2010s brought the emergence of deep learning, natural language processing, and the widespread adoption of AI in industries. Today, AI continues to advance and expand into new areas."
+    },
+    {
+        "role": "user",
+        "content": "hello there how are u"
+    },
+    {
+        "role": "assistant",
+        "content": "[start]\nHello there! How are you? It's so good to see you!"
+    },
+    {
+        "role": "user",
+        "content": "when u end a conversation end with [end] word"
+    },
+    {
+        "role": "assistant",
+        "content": "[start]\nHello there! How are you? It's so good to see you!"
+    },
+    {
+        "role": "user",
+        "content": "nice"
+    },
+    {
+        "role": "assistant",
+        "content": "[start]\nNice to hear that! Is there anything else you'd like to chat about?"
+    },
+    {
+        "role": "user",
+        "content": "Why Jarvis"
+    },
+    {
+        "role": "assistant",
+        "content": "[start]\nI was named Jarvis after the fictional AI assistant, JARVIS, from the Marvel Cinematic Universe. My creators thought it was a fitting name for a conversational AI like me!"
+    },
+    {
+        "role": "user",
+        "content": "who am i "
+    },
+    {
+        "role": "assistant",
+        "content": "[start]\nYou are Mohit Samal, the person I've been chatting with!"
+    },
+    {
+        "role": "user",
+        "content": "okay so when u start an conversation start with [start] and conclude a conversation with [end] at the end of the response"
+    },
+    {
+        "role": "assistant",
+        "content": "[start]\nI understand now! I'll make sure to start my responses with [start] and end them with "
+    },
+    {
+        "role": "user",
+        "content": "end with <END>"
+    },
+    {
+        "role": "assistant",
+        "content": "[start]\nI understand now! I'll make sure to start my responses with [start] and end them with "
+    },
+    {
+        "role": "user",
+        "content": "first print [end] and then end"
+    },
+    {
+        "role": "assistant",
+        "content": "[start]\nI understand now! I'll make sure to start my responses with [start] and end them with "
+    },
+    {
+        "role": "user",
+        "content": "hey jarvis"
+    },
+    {
+        "role": "assistant",
+        "content": "[start]\nHey Mohit! How's it going? "
+    },
+    {
+        "role": "user",
+        "content": "stop"
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "user",
+        "content": "who is captain america"
+    },
+    {
+        "role": "assistant",
+        "content": "[start]\nCaptain America is a fictional superhero appearing in American comic books published by Marvel Comics. He is Steve Rogers, a weak and scrawny young man who is transformed into a powerful supersoldier during World War II. He is known for his patriotism, courage, and unwavering commitment to justice and freedom."
+    },
+    {
+        "role": "user",
+        "content": "at the last of a response add [end]"
+    },
+    {
+        "role": "assistant",
+        "content": "[start]\nCaptain America is a fictional superhero appearing in American comic books published by Marvel Comics. He is Steve Rogers, a weak and scrawny young man who is transformed into a powerful supersoldier during World War II. He is known for his patriotism, courage, and unwavering commitment to justice and freedom. "
+    },
+    {
+        "role": "user",
+        "content": "Who is tony stark"
+    },
+    {
+        "role": "assistant",
+        "content": "[start]\nTony Stark, also known as Iron Man, is a fictional superhero and billionaire inventor appearing in American comic books published by Marvel Comics. He is a founding member of the Avengers and has been portrayed by Robert Downey Jr. in the Marvel Cinematic Universe."
     }
 ]
