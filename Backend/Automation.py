@@ -317,15 +317,15 @@ async def Automation(commands: list[str]):
 
 if __name__ == "__main__":
     commands = [
-        "open notepad"
-        # "open facebook",
-        # "play despacito",
-        # "content write a poem on nature",
-        # "google search latest news",
-        # "youtube search funny cat videos",
-        # "system volume up",
-        # "close facebook",
-        # "open openAI"
+        "open notepad",
+        "open facebook",
+        "play despacito",
+        "content write a poem on nature",
+        "google search latest news",
+        "youtube search funny cat videos",
+        "system volume up",
+        "close facebook",
+        "open openAI"
     ]
 
     asyncio.run(Automation(commands))  # Run the automation with the provided commands.

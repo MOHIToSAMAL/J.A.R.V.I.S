@@ -1,1 +1,34 @@
-[]
+[
+    {
+        "role": "user",
+        "content": "Who is Mohit samal"
+    },
+    {
+        "role": "assistant",
+        "content": "You!"
+    },
+    {
+        "role": "user",
+        "content": "Who is Mohit samal"
+    },
+    {
+        "role": "assistant",
+        "content": "You, the person asking me questions."
+    },
+    {
+        "role": "user",
+        "content": "who is mOHIT "
+    },
+    {
+        "role": "assistant",
+        "content": "From the search results, it appears that there are multiple individuals with the name Mohit. Here are a few notable ones:\n\n1. Mohit Raina - an Indian actor who appears in Hindi films and television, known for his roles in shows such as Devon Ke Dev \u2013 Mahadev and Mahabharat.\n2. Mohit Chauhan - an Indian playback singer, known for his work in Hindi films and previously part of the Silk Route band.\n\nThere's also a mention of Mohit Sharma, an Indian Army Officer who was posthumously awarded the Ashok Chakra. However, without more context, it's difficult to determine which Mohit is being referred to."
+    },
+    {
+        "role": "user",
+        "content": "Mohit samal"
+    },
+    {
+        "role": "assistant",
+        "content": "From the search results, it appears that Mohit Samal is an individual with multiple online profiles. Here's what I found:\n\nMohit Samal is a Management Trainee at ICICI Bank, Bhubaneswar, and has an MBA in Business Management from XIMB, Batch of 2023. He also has an Instagram profile with 2.4K+ followers, where he shares his thoughts and experiences.\n\nAdditionally, there's another profile that suggests Mohit Samal is a Snowflake Developer and System Engineer at TCS, with an education background from Government College of Engineering. He also has a Facebook profile, where he mentions studying MBA at XIM University and previously attending Narsee Monjee Institute of Management Studies (NMIMS).\n\nLastly, there's a mention of Mohit Samal being part of the XIM Alumni Association, with a batch year of 2021-2023 and a course in Business Management.\n\nIt seems that Mohit Samal is a professional with a strong background in management and engineering, with multiple online profiles showcasing his skills and experiences."
+    }
+]
