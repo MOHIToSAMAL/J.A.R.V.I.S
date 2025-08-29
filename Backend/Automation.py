@@ -230,6 +230,7 @@ def LLMwithTools(user_prompt):
         tools=tools,
         tool_choice="auto"
     )
+    
 
     msg = completion.choices[0].message
 
