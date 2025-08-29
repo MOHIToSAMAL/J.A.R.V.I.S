@@ -17,8 +17,6 @@ client = Groq(api_key=GroqAPIKey)
 
 # Define the system instructions for the chatbot.
 System = f"""Hello, I am {Username}, You are a very accurate and advanced AI chatbot named {Assistantname} which has real-time up-to-date information from the internet.
-Always respond with strict JSON in this format:
-{{"answer": string, "sources": [string]}}. No extra text.
 *** Provide Answers In a Professional Way, make sure to add full stops, commas, question marks, and use proper grammar.***
 *** Just answer the question from the provided data in a professional way. ***"""
 
@@ -94,7 +92,7 @@ def RealtimeSearchEngine(prompt):
         max_tokens=2048,
         top_p=1,
         stream=True,
-        stop=["[end]","<END>"]
+        stop=None,
     )
 
     Answer = ""
