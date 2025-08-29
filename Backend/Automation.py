@@ -63,6 +63,7 @@ def Content(Topic):
             max_tokens=2048, #limit the maximum tokens in the response.
             temperature=0.7, #Adjust response randomness.
             top_p=1, #Use Nucleus sampling for response diversity.
+            top_k=50, #Limit the response to the top 40 probable tokens.
             stream=True, #Enable streaming for real-time response.
             stop=None #Allow the model to determine when to stop.
         )

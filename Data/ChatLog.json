@@ -30,5 +30,29 @@
     {
         "role": "assistant",
         "content": "From the search results, it appears that Mohit Samal is an individual with multiple online profiles. Here's what I found:\n\nMohit Samal is a Management Trainee at ICICI Bank, Bhubaneswar, and has an MBA in Business Management from XIMB, Batch of 2023. He also has an Instagram profile with 2.4K+ followers, where he shares his thoughts and experiences.\n\nAdditionally, there's another profile that suggests Mohit Samal is a Snowflake Developer and System Engineer at TCS, with an education background from Government College of Engineering. He also has a Facebook profile, where he mentions studying MBA at XIM University and previously attending Narsee Monjee Institute of Management Studies (NMIMS).\n\nLastly, there's a mention of Mohit Samal being part of the XIM Alumni Association, with a batch year of 2021-2023 and a course in Business Management.\n\nIt seems that Mohit Samal is a professional with a strong background in management and engineering, with multiple online profiles showcasing his skills and experiences."
+    },
+    {
+        "role": "user",
+        "content": "who is sundar picahi "
+    },
+    {
+        "role": "assistant",
+        "content": "Sundar Pichai!"
+    },
+    {
+        "role": "user",
+        "content": "yeah who is he"
+    },
+    {
+        "role": "assistant",
+        "content": "Sundar Pichai is the CEO of Alphabet Inc. and its subsidiary Google LLC."
+    },
+    {
+        "role": "user",
+        "content": "hello whats the date now"
+    },
+    {
+        "role": "assistant",
+        "content": "{\"answer\": \"Today's date is Friday, August 29, 2025.\", \"sources\": [\"Today's Date - CalendarDate.com\", \"What Is Today's Date? - Inch Calculator\", \"What Is Today's Date? What Day Is It? - Saturday Gift\"]}"
     }
 ]
