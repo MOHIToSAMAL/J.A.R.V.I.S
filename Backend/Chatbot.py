@@ -83,7 +83,7 @@ def ChatBot(Query):
             max_tokens=1024,  # Limit the maximum tokens in the response.
             temperature=0.7,  # Adjust response randomness (higher means more random).
             top_p=1,  # Use nucleus sampling to control diversity.
-            stream=False,  # Enable streaming response.
+            stream=True,  # Enable streaming response.
             stop=None  # Allow the model to determine when to stop.
         )
         
