@@ -238,5 +238,21 @@
     {
         "role": "assistant",
         "content": "[start]\nTony Stark, also known as Iron Man, is a fictional superhero and billionaire inventor appearing in American comic books published by Marvel Comics. He is a founding member of the Avengers and has been portrayed by Robert Downey Jr. in the Marvel Cinematic Universe."
+    },
+    {
+        "role": "user",
+        "content": "what is 23 * 47?"
+    },
+    {
+        "role": "assistant",
+        "content": "[start]\nThe result of 23 multiplied by 47 is 1081."
+    },
+    {
+        "role": "user",
+        "content": "what is 23 * 47?"
+    },
+    {
+        "role": "assistant",
+        "content": "[start]\nThe result of 23 multiplied by 47 is 1081. "
     }
 ]

@@ -47,6 +47,7 @@ You will decide whether a query is a 'general' query, a 'realtime' query, or is 
 ChatHistory = [
     {"role": "user", "message": "open facebook"},
     {"role": "Chatbot", "message": "open facebook"},
+    
     {"role": "user", "message": "who was akbar?"},
     {"role": "Chatbot", "message": "general who was akbar?"},
     {"role": "user", "message": "who is indian prime minister?"},

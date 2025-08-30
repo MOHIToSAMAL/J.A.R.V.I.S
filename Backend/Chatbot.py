@@ -84,7 +84,7 @@ def ChatBot(Query):
             temperature=0.7,  # Adjust response randomness (higher means more random).
             top_p=1,  # Use nucleus sampling to control diversity.
             stream=True,  # Enable streaming response.
-            stop=["[end]","<END>"] , # Allow the model to determine when to stop.
+            stop=None , # Allow the model to determine when to stop.
         )
         
         
